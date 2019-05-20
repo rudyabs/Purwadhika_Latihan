@@ -1,0 +1,2 @@
+buat formulir berisi nama id dll serta photo dan redirect ke user page berisi biodata yang td diinput
+install mongodb
